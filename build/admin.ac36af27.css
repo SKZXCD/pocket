@@ -13397,12 +13397,12 @@ a.text-dark:hover {
   font-family:Font Awesome\ 5 Free;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/fa-regular-400.77206a6b.eot);
-  src:url(/build/fonts/fa-regular-400.77206a6b.eot?#iefix) format("embedded-opentype"),
-  url(/build/fonts/fa-regular-400.7a333762.woff2) format("woff2"),
-  url(/build/fonts/fa-regular-400.bb58e57c.woff) format("woff"),
-  url(/build/fonts/fa-regular-400.491974d1.ttf) format("truetype"),
-  url(/build/images/fa-regular-400.4689f52c.svg#fontawesome) format("svg")
+  src:url(/pocket/build/fonts/fa-regular-400.77206a6b.eot);
+  src:url(/pocket/build/fonts/fa-regular-400.77206a6b.eot?#iefix) format("embedded-opentype"),
+  url(/pocket/build/fonts/fa-regular-400.7a333762.woff2) format("woff2"),
+  url(/pocket/build/fonts/fa-regular-400.bb58e57c.woff) format("woff"),
+  url(/pocket/build/fonts/fa-regular-400.491974d1.ttf) format("truetype"),
+  url(/pocket/build/images/fa-regular-400.4689f52c.svg#fontawesome) format("svg")
 }
 .far {
   font-weight:400
@@ -13417,12 +13417,12 @@ a.text-dark:hover {
   font-family:Font Awesome\ 5 Free;
   font-style:normal;
   font-weight:900;
-  src:url(/build/fonts/fa-solid-900.9bbb245e.eot);
-  src:url(/build/fonts/fa-solid-900.9bbb245e.eot?#iefix) format("embedded-opentype"),
-  url(/build/fonts/fa-solid-900.1551f4f6.woff2) format("woff2"),
-  url(/build/fonts/fa-solid-900.eeccf4f6.woff) format("woff"),
-  url(/build/fonts/fa-solid-900.be9ee23c.ttf) format("truetype"),
-  url(/build/images/fa-solid-900.7a8b4f13.svg#fontawesome) format("svg")
+  src:url(/pocket/build/fonts/fa-solid-900.9bbb245e.eot);
+  src:url(/pocket/build/fonts/fa-solid-900.9bbb245e.eot?#iefix) format("embedded-opentype"),
+  url(/pocket/build/fonts/fa-solid-900.1551f4f6.woff2) format("woff2"),
+  url(/pocket/build/fonts/fa-solid-900.eeccf4f6.woff) format("woff"),
+  url(/pocket/build/fonts/fa-solid-900.be9ee23c.ttf) format("truetype"),
+  url(/pocket/build/images/fa-solid-900.7a8b4f13.svg#fontawesome) format("svg")
 }
 .fa,
 .far,
@@ -13443,12 +13443,12 @@ a.text-dark:hover {
   font-family:Font Awesome\ 5 Brands;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/fa-brands-400.23f19bb0.eot);
-  src:url(/build/fonts/fa-brands-400.23f19bb0.eot?#iefix) format("embedded-opentype"),
-  url(/build/fonts/fa-brands-400.d878b0a6.woff2) format("woff2"),
-  url(/build/fonts/fa-brands-400.2285773e.woff) format("woff"),
-  url(/build/fonts/fa-brands-400.527940b1.ttf) format("truetype"),
-  url(/build/images/fa-brands-400.2f517e09.svg#fontawesome) format("svg")
+  src:url(/pocket/build/fonts/fa-brands-400.23f19bb0.eot);
+  src:url(/pocket/build/fonts/fa-brands-400.23f19bb0.eot?#iefix) format("embedded-opentype"),
+  url(/pocket/build/fonts/fa-brands-400.d878b0a6.woff2) format("woff2"),
+  url(/pocket/build/fonts/fa-brands-400.2285773e.woff) format("woff"),
+  url(/pocket/build/fonts/fa-brands-400.527940b1.ttf) format("truetype"),
+  url(/pocket/build/images/fa-brands-400.2f517e09.svg#fontawesome) format("svg")
 }
 .fab {
   font-family:Font Awesome\ 5 Brands;
@@ -15047,49 +15047,49 @@ body.trumbowyg-body-fullscreen {
   font-family:poppins light;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/poppins-light.882a6902.woff2) format("woff2"),
-  url(/build/fonts/poppins-light.4e012d81.woff) format("woff")
+  src:url(/pocket/build/fonts/poppins-light.882a6902.woff2) format("woff2"),
+  url(/pocket/build/fonts/poppins-light.4e012d81.woff) format("woff")
 }
 @font-face {
   font-family:poppins regular;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/poppins-regular.1ee2a3e7.woff2) format("woff2"),
-  url(/build/fonts/poppins-regular.eb9c3f18.woff) format("woff")
+  src:url(/pocket/build/fonts/poppins-regular.1ee2a3e7.woff2) format("woff2"),
+  url(/pocket/build/fonts/poppins-regular.eb9c3f18.woff) format("woff")
 }
 @font-face {
   font-family:poppins medium;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/poppins-medium.6854c4c0.woff2) format("woff2"),
-  url(/build/fonts/poppins-medium.40b6fb2f.woff) format("woff")
+  src:url(/pocket/build/fonts/poppins-medium.6854c4c0.woff2) format("woff2"),
+  url(/pocket/build/fonts/poppins-medium.40b6fb2f.woff) format("woff")
 }
 @font-face {
   font-family:poppins medium italic;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/poppins-medium-italic.a1c563cc.woff2) format("woff2"),
-  url(/build/fonts/poppins-medium-italic.35c48260.woff) format("woff")
+  src:url(/pocket/build/fonts/poppins-medium-italic.a1c563cc.woff2) format("woff2"),
+  url(/pocket/build/fonts/poppins-medium-italic.35c48260.woff) format("woff")
 }
 @font-face {
   font-family:poppins semi-bold;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/poppins-semibold.723607ef.woff2) format("woff2"),
-  url(/build/fonts/poppins-semibold.5d0988b6.woff) format("woff")
+  src:url(/pocket/build/fonts/poppins-semibold.723607ef.woff2) format("woff2"),
+  url(/pocket/build/fonts/poppins-semibold.5d0988b6.woff) format("woff")
 }
 @font-face {
   font-family:poppins bold;
   font-style:normal;
   font-weight:400;
-  src:url(/build/fonts/poppins-bold.15bb8c74.woff2) format("woff2"),
-  url(/build/fonts/poppins-bold.2d3a97da.woff) format("woff")
+  src:url(/pocket/build/fonts/poppins-bold.15bb8c74.woff2) format("woff2"),
+  url(/pocket/build/fonts/poppins-bold.2d3a97da.woff) format("woff")
 }
 html {
   height:100%
 }
 body {
-  background:50%/cover no-repeat url(/build/images/background-spring.b6ebe6c2.png);
+  background:50%/cover no-repeat url(/pocket/build/images/background-spring.b6ebe6c2.png);
   background-attachment:fixed;
   font-family:poppins medium;
   font-size:14px;
@@ -20706,7 +20706,7 @@ button.trumbowyg-removeTableCellBackgroundColor-dropdown-button {
   flex-direction:column
 }
 .login__background {
-  background:top/cover no-repeat url(/build/images/background-spring.45160d97.jpg);
+  background:top/cover no-repeat url(/pocket/build/images/background-spring.45160d97.jpg);
   color:#fff;
   flex:1;
   font-family:poppins medium;
